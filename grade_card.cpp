@@ -28,7 +28,7 @@ void GRADE_CARD::getdata()
     cout << "Enter marks of 5 subjects:\n";
     for(int i = 0; i < 5; i++)
     {
-        cout << "Subject " << i+1 << ": ";
+        cout << "Subject " << i+1 ;
         cin >> marks[i];
     }
 }
@@ -81,7 +81,7 @@ int main()
 
     for(int i = 0; i < 5; i++)
     {
-        cout << "\nDetails of student " << i+1 << ":\n";
+        cout << "\nDetails of student " << i+1;
         students[i].showdata();
     }
 

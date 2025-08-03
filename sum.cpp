@@ -15,3 +15,5 @@ int main()
 
     return 0;
 }
+/* OUTPUT
+The total value of the array elements is: 383 */

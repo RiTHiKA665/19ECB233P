@@ -87,3 +87,54 @@ int main()
 
     return 0;
 }
+
+/* OUTPUT
+Details of student 1:
+
+Student Name: Rithika
+Section: A1
+Registration No: 9013
+Marks: 85 75 86 2 71 
+Total: 319
+Average: 63
+Grade: B+
+
+Details of student 2:
+
+Student Name: Sasidhar
+Section: A1
+Registration No: 627
+Marks: 78 95 68 98 75 
+Total: 414
+Average: 82
+Grade: A+
+
+Details of student 3:
+
+Student Name: Sashank
+Section: A1
+Registration No: 9009
+Marks: 78 94 63 65 99 
+Total: 399
+Average: 79
+Grade: A
+
+Details of student 4:
+
+Student Name: Gowri
+Section: A1
+Registration No: 1452
+Marks: 99 98 97 96 95 
+Total: 485
+Average: 97
+Grade: O
+
+Details of student 5:
+
+Student Name: Hari
+Section: A1
+Registration No: 9919
+Marks: 99 99 98 97 95 
+Total: 488
+Average: 97
+Grade: O */
